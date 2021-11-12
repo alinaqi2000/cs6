@@ -1,15 +1,15 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Welcome to your new awesome webpack!
 
 This project has been created using **webpack-cli**, you can now run
 
 ```
-npm run build
+npm i
 ```
 
-or
+and then,
 
 ```
-yarn build
+npm run serve
 ```
 
-to bundle your application
+to run you application.
